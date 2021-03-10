@@ -7,6 +7,13 @@
 
       <v-spacer></v-spacer>
 
+      
+      <v-progress-circular
+        indeterminate
+        color="white"
+        class="mr-4"
+        v-show="graphLoading"
+      ></v-progress-circular>
       <v-btn @click="sendMail">
         Contact
       </v-btn>
@@ -71,6 +78,7 @@
             v-bind:subject="subject"
             v-bind:graph="finalVersion"
             v-on:selectedProp="searchForSelected"
+            v-on:loading="showLoadingStatus"
           />
         </v-col>
         <v-col overflow="scroll">
@@ -89,6 +97,7 @@ import Graph from "./components/Graph";
 import PropertiesTable from "./components/PropertiesTable";
 
 export default {
+  name: "Main",
   data: () => {
     return {
       changes: {},
@@ -97,7 +106,8 @@ export default {
       selectedVersions: [0, 5],
       // eslint-disable-next-line prettier/prettier
       availableVersions: [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 ],
-      searchParameter: ""
+      searchParameter: "",
+      graphLoading: null
     };
   },
   computed: {
@@ -136,8 +146,10 @@ export default {
       return versions;
     },
     searchForSelected: function(val) {
-      console.log(val);
       this.searchParameter = val;
+    },
+    showLoadingStatus: function(val) {
+      this.graphLoading = val;
     }
   },
   components: {

@@ -10,9 +10,11 @@
 <script>
 import ForceGraph from "force-graph";
 export default {
+  name: "Graph",
   props: ["subject", "changes", "graph"],
   watch: {
     graph: function() {
+      this.$emit("loading", true);
       const graphNodes = this.formatTriplesForGraph();
 
       //5150000 to 16777215 represent numbers on this scale and convert
@@ -38,7 +40,10 @@ export default {
 
       RDFGraph.d3Force("center", null);
 
-      RDFGraph.onEngineStop(() => RDFGraph.zoomToFit(300));
+      RDFGraph.onEngineStop(() => {
+        RDFGraph.zoomToFit(300);
+        this.$emit("loading", false);
+      });
     }
   },
   methods: {
@@ -75,7 +80,7 @@ export default {
 
       return formattedGraph;
     },
-    versionCountsToColorValue: async function() {
+    versionCountsToColorValue: function() {
       //get highest number of changes for a property
       const versionCounts = [];
       let highestCount = 0;
