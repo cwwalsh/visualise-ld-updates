@@ -1,0 +1,27 @@
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-07-31T06:21:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageLength> "97019"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageModified> "2015-07-31T06:21:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageOutDegree> "245"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageRevisionID> "673894018"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Carly_Fiorina&oldid=673894018> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-07-18T12:55:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-07-17T22:55:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "671918494"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Chess_World_Cup_2015&oldid=671918494> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-07-27T06:15:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageLength> "85208"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageModified> "2015-07-27T04:49:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageRevisionID> "673256776"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Frank_Sinatra&oldid=673256776> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-07-31T10:02:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageLength> "9647"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageModified> "2015-07-31T08:47:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageOutDegree> "137"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageRevisionID> "673907722"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_Coronation_Street_characters&oldid=673907722> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .

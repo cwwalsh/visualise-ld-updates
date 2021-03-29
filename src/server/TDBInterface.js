@@ -5,8 +5,6 @@ as well as delta materialiation queries in between each version after
 
 const { default: Axios, default: axios } = require("axios");
 
-const QUERY_URL = "http://localhost:3030/data/sparql";
-
 /**
  * Get triples added and deleted in each version
  * This function can be edited to reflect delta materialisation queries in other archiving tools and strategies, as long as the arguments
@@ -17,35 +15,41 @@ const QUERY_URL = "http://localhost:3030/data/sparql";
  */
 async function getChangesForSubject(subject, versions) {
   //construct query to obtain added and deleted versions of each version
-  let fromConstruction = "";
-  let result = [];
-  for (const v of versions) {
-    fromConstruction += `from named <http://example.org/added_${v}> from named <http://example.org/deleted_${v}>`;
-    result.push({ version: v, added: [], deleted: [] });
-  }
-  const query = `select ?p ?o ?g ${fromConstruction} where { graph ?g { <${subject}> ?p ?o . } }`;
-  const request = await Axios.get(`${QUERY_URL}?query=${encodeURI(query)}`);
-  for (const triple of request.data.results.bindings) {
-    const version = triple.g.value.match(/\d+$/);
-    const versionObject = result.find(o => {
-      return o.version == version[0];
-    });
-    if (triple.g.value.includes("added")) {
-      versionObject.added.push({
-        s: subject,
-        p: triple.p.value,
-        o: triple.o
-      });
-    } else {
-      versionObject.deleted.push({
-        s: subject,
-        p: triple.p.value,
-        o: triple.o
-      });
+  try {
+    let fromConstruction = "";
+    let result = [];
+    for (const v of versions) {
+      fromConstruction += `from named <http://example.org/added_${v}> from named <http://example.org/deleted_${v}>`;
+      result.push({ version: v, added: [], deleted: [] });
     }
-  }
+    const query = `select ?p ?o ?g ${fromConstruction} where { graph ?g { <${subject}> ?p ?o . } }`;
+    const request = await Axios.get(
+      `http://localhost:3030/data/sparql?query=${encodeURI(query)}`
+    );
+    for (const triple of request.data.results.bindings) {
+      const version = triple.g.value.match(/\d+$/);
+      const versionObject = result.find(o => {
+        return o.version == version[0];
+      });
+      if (triple.g.value.includes("added")) {
+        versionObject.added.push({
+          s: subject,
+          p: triple.p.value,
+          o: triple.o
+        });
+      } else {
+        versionObject.deleted.push({
+          s: subject,
+          p: triple.p.value,
+          o: triple.o
+        });
+      }
+    }
 
-  return result;
+    return result;
+  } catch (e) {
+    return { error: true, message: e };
+  }
 }
 
 /**
@@ -58,7 +62,9 @@ async function getChangesForSubject(subject, versions) {
  */
 async function getSubjectAtVersion(subject, version) {
   const query = `select ?p ?o from <http://example.org/${version}> where {<${subject}> ?p ?o .}`;
-  const request = await axios.get(`${QUERY_URL}?query=${encodeURI(query)}`);
+  const request = await axios.get(
+    `http://localhost:3030/data/sparql?query=${encodeURI(query)}`
+  );
   const triples = request.data.results.bindings;
 
   for (const t of triples) {

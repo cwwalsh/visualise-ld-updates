@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .
+<http://dbpedia.org/resource/StarStruck_(season_6)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-15T04:05:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarStruck_(season_6)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-15T04:05:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarStruck_(season_6)> <http://dbpedia.org/ontology/wikiPageRevisionID> "676165280"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarStruck_(season_6)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=StarStruck_(season_6)&oldid=676165280> .

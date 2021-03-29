@@ -28,3 +28,6 @@ pnpm-debug.log*
 *.sw?
 
 /tests
+
+db/jena-fuseki-docker-3.17.0/databases/
+db/jena-fuseki-docker-3.17.0/logs/

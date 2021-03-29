@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-07-27T01:41:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageModified> "2015-07-27T01:26:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageRevisionID> "673236228"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_Atlantic_hurricane_season&oldid=673236228> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .

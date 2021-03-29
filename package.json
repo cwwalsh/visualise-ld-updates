@@ -8,12 +8,16 @@
     "test:unit": "vue-cli-service test:unit",
     "test:e2e": "vue-cli-service test:e2e",
     "lint": "vue-cli-service lint",
-    "start": "nodemon --exec 'vue-cli-service serve'"
+    "start": "nodemon --exec 'vue-cli-service serve'",
+    "prod": "node ./src/server/index.js"
   },
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
+    "chart.js": "^2.9.4",
+    "connect-history-api-fallback": "^1.6.0",
     "core-js": "^3.6.5",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "force-graph": "^1.36.2",
     "vue": "^2.6.11",

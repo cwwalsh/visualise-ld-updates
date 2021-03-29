@@ -1,0 +1,829 @@
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.chelseafc.com/management> .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T16:53:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/ontology/wikiPageLength> "78866"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T16:53:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/ontology/wikiPageOutDegree> "529"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/ontology/wikiPageRevisionID> "677177693"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015–16_Chelsea_F.C._season&oldid=677177693> .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/property/chairman> "[[]]"@en .
+<http://dbpedia.org/resource/2015%E2%80%9316_Chelsea_F.C._season> <http://dbpedia.org/property/s> <http://www.chelseafc.com/management> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:13:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageLength> "46274"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:38:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageRevisionID> "677212912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015–16_La_Liga&oldid=677212912> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/property/ga> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/property/gf> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:19:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015> <http://dbpedia.org/ontology/wikiPageLength> "38514"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:57:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "677215234"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015&oldid=677215234> .
+<http://dbpedia.org/resource/2015_AFL_season> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.afl.com.au/match-centre/2015/21/haw-v-port> .
+<http://dbpedia.org/resource/2015_AFL_season> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T15:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_AFL_season> <http://dbpedia.org/ontology/wikiPageLength> "162845"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_AFL_season> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T15:33:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_AFL_season> <http://dbpedia.org/ontology/wikiPageRevisionID> "677166477"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_AFL_season> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_AFL_season&oldid=677166477> .
+<http://dbpedia.org/resource/2015_AFL_season> <http://dbpedia.org/property/matches> "171"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_ATP_Challenger_Tour> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:50:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_ATP_Challenger_Tour> <http://dbpedia.org/ontology/wikiPageLength> "179773"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_ATP_Challenger_Tour> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:49:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_ATP_Challenger_Tour> <http://dbpedia.org/ontology/wikiPageOutDegree> "1873"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_ATP_Challenger_Tour> <http://dbpedia.org/ontology/wikiPageRevisionID> "677221354"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_ATP_Challenger_Tour> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_ATP_Challenger_Tour&oldid=677221354> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/212043.shtml> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:58:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageLength> "37446"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:58:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222404"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_Atlantic_hurricane_season&oldid=677222404> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/1sustained> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/cat> "cat2"@en .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/cat> "cat3"@en .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/category> "cat2"@en .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/category> "cat3"@en .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/dissipated> "--07-15"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/distanceFrom> "860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/gusts> "125"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/lat> "14.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/lon> "49.1"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/maxWinds> "115"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/minPress> "974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/movement> "WNW at 9 kt"@en .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/pressure> "974.0"^^<http://dbpedia.org/datatype/millibar> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/strongestStormName> "Danny"@en .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/strongestStormPressure> "974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/strongestStormWinds> "100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/time> "--08-21"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/totalIntense> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://dbpedia.org/property/withinUnits> "10.0"^^<http://dbpedia.org/datatype/nanometre> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://www.georss.org/georss/point> "14.5 -49.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "14.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/2015_Atlantic_hurricane_season> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-49.1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T15:51:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/ontology/wikiPageLength> "36728"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T15:51:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/ontology/wikiPageOutDegree> "127"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/ontology/wikiPageRevisionID> "677168465"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_FIBA_Asia_Championship&oldid=677168465> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/place> "Central South University of Forestry and Technology's gymnasium, Changsha"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/place> "Changsha Social Work College's gymnasium, Changsha Changsha"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/place> "Changsha Social Work College's gymnasium, Changsha"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "E1"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "E2"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "E3"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "E4"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "F1"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "F2"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "F3"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/qfSeed> "F4"@en .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/time> "1005.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/time> "1170.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/time> "1290.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/time> "570.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/time> "705.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/time> "870.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/2015_FIBA_Asia_Championship> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:8TeamBracket-with_third-fifth-seventh> .
+<http://dbpedia.org/resource/2015_Indian_Super_League_season> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:49:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Indian_Super_League_season> <http://dbpedia.org/ontology/wikiPageLength> "23461"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Indian_Super_League_season> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:41:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Indian_Super_League_season> <http://dbpedia.org/ontology/wikiPageOutDegree> "170"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Indian_Super_League_season> <http://dbpedia.org/ontology/wikiPageRevisionID> "677203720"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Indian_Super_League_season> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_Indian_Super_League_season&oldid=677203720> .
+<http://dbpedia.org/resource/2015_MTV_Europe_Music_Awards> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:49:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_MTV_Europe_Music_Awards> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T13:43:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_MTV_Europe_Music_Awards> <http://dbpedia.org/ontology/wikiPageRevisionID> "677154003"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_MTV_Europe_Music_Awards> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_MTV_Europe_Music_Awards&oldid=677154003> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.prh.noaa.gov/cphc/tcpages/?storm=Four-C> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.prh.noaa.gov/cphc/tcpages/?storm=Kilo> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:56:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageLength> "52087"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:56:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageOutDegree> "133"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222131"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_Pacific_hurricane_season&oldid=677222131> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/dates> "August 20 – Currently active"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/dates> "August 21 – Currently active"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 510 mi  W of Johnston Island"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 540 mi  W of Johnston Island"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 645 mi  SSE of Hilo, Hawaii"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 685 mi  SSE of Hilo, Hawaii"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 685 mi  SSW of Hilo, Hawaii"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 815 mi  S of Midway Island"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 830 mi  SSE of Honolulu, Hawaii"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 875 mi  SE of Honolulu, Hawaii"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 875 mi  SSW of Honolulu, Hawaii"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/distanceFrom> "About 900 mi  S of Midway Island"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/lat> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/lat> "15.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/lon> "151.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/lon> "177.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/movement> "N at 4 kt"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/movement> "N at 5 kt"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Four-C"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Kilo"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Loke"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Three-C"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Tropical Depression Four-C"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Tropical Depression Three-C"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Tropical Storm Kilo"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/name> "Tropical Storm Loke"@en .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/numCyclones> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/time> "--08-20"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/time> "--08-21"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/totalDepressions> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/totalStorms> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/track> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/track> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Coord> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_hurricane_current> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Tcname_active> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://dbpedia.org/property/withinUnits> "30.0"^^<http://dbpedia.org/datatype/nanometre> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://www.georss.org/georss/point> "11.0 -151.5"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "11.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/2015_Pacific_hurricane_season> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-151.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:57:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/ontology/wikiPageLength> "131735"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:57:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222315"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_Pacific_typhoon_season&oldid=677222315> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/10sustained> "155.0"^^<http://dbpedia.org/datatype/kilometrePerHour> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/deaths> "70"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/distanceFrom> "E of Iwo To, Japan"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/distanceFrom> "ENE of Iwo To, Japan"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/distanceFrom> "S of Taipei, Taiwan"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/distanceFrom> "SSW of Kadena Air Base"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/distanceFrom> "SW of Kadena Air Base"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/fatalities> "70"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/gusts> "220.0"^^<http://dbpedia.org/datatype/kilometrePerHour> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/gusts> "230.0"^^<http://dbpedia.org/datatype/kilometrePerHour> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/lat> "19.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/lat> "25.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/lon> "122.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/lon> "145.4"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/movement> "Almost stationary"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/movement> "N slowly"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/movement> "WNW slowly"@en .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/pressure> "945.0"^^<http://dbpedia.org/datatype/hectopascal> .
+<http://dbpedia.org/resource/2015_Pacific_typhoon_season> <http://dbpedia.org/property/time> "--08-21"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/2015_Rugby_World_Cup> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T07:16:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Rugby_World_Cup> <http://dbpedia.org/ontology/wikiPageLength> "64134"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Rugby_World_Cup> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T07:16:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_Rugby_World_Cup> <http://dbpedia.org/ontology/wikiPageOutDegree> "491"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_Rugby_World_Cup> <http://dbpedia.org/ontology/wikiPageRevisionID> "677119987"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_Rugby_World_Cup> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_Rugby_World_Cup&oldid=677119987> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:56:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageLength> "35045"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:56:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageOutDegree> "12"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_US_Open_–_Men's_Singles&oldid=677222200> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/property/rd1Team> "A Murray"@en .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/property/rd1Team> "Andy Murray"@en .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:58:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://dbpedia.org/ontology/wikiPageLength> "70371"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:57:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://dbpedia.org/ontology/wikiPageOutDegree> "168"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222350"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_US_Open_(tennis)&oldid=677222350> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:2015_US_Open_Series> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2015_ATP_World_Tour> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2015_WTA_Tour> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2015_in_American_sports> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2015_in_tennis> .
+<http://dbpedia.org/resource/2015_US_Open_(tennis)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:US_Open_(tennis)_by_year> .
+<http://dbpedia.org/resource/2015_WTA_Finals> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:27:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_WTA_Finals> <http://dbpedia.org/ontology/wikiPageLength> "41853"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_WTA_Finals> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:20:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_WTA_Finals> <http://dbpedia.org/ontology/wikiPageOutDegree> "516"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_WTA_Finals> <http://dbpedia.org/ontology/wikiPageRevisionID> "677217742"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_WTA_Finals> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_WTA_Finals&oldid=677217742> .
+<http://dbpedia.org/resource/2015_WTA_Tour> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:21:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_WTA_Tour> <http://dbpedia.org/ontology/wikiPageLength> "179648"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_WTA_Tour> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:01:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_WTA_Tour> <http://dbpedia.org/ontology/wikiPageOutDegree> "1238"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_WTA_Tour> <http://dbpedia.org/ontology/wikiPageRevisionID> "677215726"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_WTA_Tour> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_WTA_Tour&oldid=677215726> .
+<http://dbpedia.org/resource/2015_in_Philippine_television> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T15:16:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_Philippine_television> <http://dbpedia.org/ontology/wikiPageLength> "143259"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_Philippine_television> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T15:03:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_Philippine_television> <http://dbpedia.org/ontology/wikiPageOutDegree> "1092"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_Philippine_television> <http://dbpedia.org/ontology/wikiPageRevisionID> "677162756"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_in_Philippine_television> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_in_Philippine_television&oldid=677162756> .
+<http://dbpedia.org/resource/2015_in_South_Korean_music> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:03:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_South_Korean_music> <http://dbpedia.org/ontology/wikiPageLength> "108011"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_South_Korean_music> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:12:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_South_Korean_music> <http://dbpedia.org/ontology/wikiPageRevisionID> "677209112"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_in_South_Korean_music> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_in_South_Korean_music&oldid=677209112> .
+<http://dbpedia.org/resource/2015_in_film> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:22:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_film> <http://dbpedia.org/ontology/wikiPageLength> "183794"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_film> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T18:40:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_film> <http://dbpedia.org/ontology/wikiPageOutDegree> "2885"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_film> <http://dbpedia.org/ontology/wikiPageRevisionID> "677193350"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_in_film> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_in_film&oldid=677193350> .
+<http://dbpedia.org/resource/2015_in_hip_hop_music> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:18:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_hip_hop_music> <http://dbpedia.org/ontology/wikiPageLength> "97329"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_hip_hop_music> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:53:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_hip_hop_music> <http://dbpedia.org/ontology/wikiPageOutDegree> "692"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_hip_hop_music> <http://dbpedia.org/ontology/wikiPageRevisionID> "677214726"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_in_hip_hop_music> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_in_hip_hop_music&oldid=677214726> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:57:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/ontology/wikiPageLength> "728509"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T14:08:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/ontology/wikiPageOutDegree> "5362"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/ontology/wikiPageRevisionID> "677156413"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_in_sports&oldid=677156413> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Hbj> .
+<http://dbpedia.org/resource/2015_in_sports> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Hby> .
+<http://dbpedia.org/resource/ATP_World_Tour_records> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:57:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/ATP_World_Tour_records> <http://dbpedia.org/ontology/wikiPageLength> "129311"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/ATP_World_Tour_records> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:57:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/ATP_World_Tour_records> <http://dbpedia.org/ontology/wikiPageOutDegree> "1241"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/ATP_World_Tour_records> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222266"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/ATP_World_Tour_records> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=ATP_World_Tour_records&oldid=677222266> .
+<http://dbpedia.org/resource/America's_Got_Talent_(season_10)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:58:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/America's_Got_Talent_(season_10)> <http://dbpedia.org/ontology/wikiPageLength> "54127"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/America's_Got_Talent_(season_10)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:02:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/America's_Got_Talent_(season_10)> <http://dbpedia.org/ontology/wikiPageOutDegree> "182"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/America's_Got_Talent_(season_10)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677207263"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/America's_Got_Talent_(season_10)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=America's_Got_Talent_(season_10)&oldid=677207263> .
+<http://dbpedia.org/resource/America's_Next_Top_Model_(cycle_22)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:32:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/America's_Next_Top_Model_(cycle_22)> <http://dbpedia.org/ontology/wikiPageLength> "16793"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/America's_Next_Top_Model_(cycle_22)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:04:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/America's_Next_Top_Model_(cycle_22)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677197191"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/America's_Next_Top_Model_(cycle_22)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=America's_Next_Top_Model_(cycle_22)&oldid=677197191> .
+<http://dbpedia.org/resource/America's_Next_Top_Model_(cycle_22)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:N/a> .
+<http://dbpedia.org/resource/America's_Next_Top_Model_(cycle_22)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Start_date> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageLength> "28354"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:06:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageOutDegree> "84"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageRevisionID> "677197677"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=American_Horror_Story:_Hotel&oldid=677197677> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:30:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/ontology/wikiPageLength> "53037"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:00:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/ontology/wikiPageOutDegree> "169"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/ontology/wikiPageRevisionID> "677196589"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Baahubali:_The_Beginning&oldid=677196589> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/property/expiry> "2015-09-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Baahubali:_The_Beginning> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Pp-vandalism> .
+<http://dbpedia.org/resource/Bajrangi_Bhaijaan> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T10:23:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bajrangi_Bhaijaan> <http://dbpedia.org/ontology/wikiPageLength> "49794"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Bajrangi_Bhaijaan> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T09:46:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bajrangi_Bhaijaan> <http://dbpedia.org/ontology/wikiPageRevisionID> "677132315"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bajrangi_Bhaijaan> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Bajrangi_Bhaijaan&oldid=677132315> .
+<http://dbpedia.org/resource/Belgium_national_football_team> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:07:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Belgium_national_football_team> <http://dbpedia.org/ontology/wikiPageLength> "103319"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Belgium_national_football_team> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:23:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Belgium_national_football_team> <http://dbpedia.org/ontology/wikiPageOutDegree> "476"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Belgium_national_football_team> <http://dbpedia.org/ontology/wikiPageRevisionID> "677210715"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Belgium_national_football_team> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Belgium_national_football_team&oldid=677210715> .
+<http://dbpedia.org/resource/Bernie_Sanders> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:25:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bernie_Sanders> <http://dbpedia.org/ontology/wikiPageLength> "71811"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Bernie_Sanders> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:15:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bernie_Sanders> <http://dbpedia.org/ontology/wikiPageOutDegree> "315"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Bernie_Sanders> <http://dbpedia.org/ontology/wikiPageRevisionID> "677217304"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bernie_Sanders> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Bernie_Sanders&oldid=677217304> .
+<http://dbpedia.org/resource/Bernie_Sanders> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Quote> .
+<http://dbpedia.org/resource/Bundesautobahn_20> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T07:02:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bundesautobahn_20> <http://dbpedia.org/ontology/wikiPageLength> "6700"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Bundesautobahn_20> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T07:02:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bundesautobahn_20> <http://dbpedia.org/ontology/wikiPageRevisionID> "677119043"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bundesautobahn_20> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Bundesautobahn_20&oldid=677119043> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Fortune_500> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/London_Business_School> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Lucent_Technologies> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:29:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageLength> "133935"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:25:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageOutDegree> "349"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageRevisionID> "677218388"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Carly_Fiorina&oldid=677218388> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/property/awards> "America's Most Powerful People, Forbes; Most Powerful Woman in American Business, Fortune, 1999; Honorary Fellow, London Business School, 2001; Top 25 Executives, CRN, 2002; Appeal of Conscience Award, 2002; Seeds of Hope Award, Concern International, 2003; Leadership Award, Private Sector Council, 2004; Alliance Medal of Honor, Electronics Industries, 2004."@en .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/property/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:POV-lead> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:POV_section> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_Christians> .
+<http://dbpedia.org/resource/Carly_Fiorina> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_philanthropists> .
+<http://dbpedia.org/resource/Celebrity_Big_Brother_16> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T10:24:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Celebrity_Big_Brother_16> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T09:47:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Celebrity_Big_Brother_16> <http://dbpedia.org/ontology/wikiPageRevisionID> "677132370"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Celebrity_Big_Brother_16> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Celebrity_Big_Brother_16&oldid=677132370> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:25:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageLength> "30574"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:14:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageOutDegree> "269"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "677217085"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Chess_World_Cup_2015&oldid=677217085> .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ahmed Adly"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Aleksey Goganov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Alexander Areshchenko"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Alexander Grischuk"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Alexander Ipatov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Alexander Motylev"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Alexander Onischuk"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Alexandr Fier"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Amir Zaibi"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Andrei Volokitin"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Anish Giri"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Anton Korobov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Anton Kovalyov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Arthur Ssegwanyi"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Baskaran Adhiban"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Bassem Amin"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Boris Gelfand"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Boris Grachev"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Constantin Lupulescu"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Cristobal Henriquez Vilagra"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Csaba Balogh"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "David Anton Guijarro"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "David Navara"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Denis Khismatullin"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Deysi Cori"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ding Liren"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Dmitry Andreikin"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Dmitry Jakovenko"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Dragan Solak"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Eduardo Iturrizaga"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Eltaj Safarli"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Emre Can"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ernes Espinoza Veloz"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ernesto Inarkiev"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Evgeniy Najer"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Evgeny Tomashevsky"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Fabiano Caruana"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Gabriel Sargissian"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Gadir Guseinov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Hou Yifan"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Igor Kovalenko"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Igor Lysyj"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ilia Iljiushenok"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ilia Smirin"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Isan Reynaldo Ortiz Suárez"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ivan Cheparinov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ivan Šarić"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Julio Granda"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Lalith Babu"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Lazaro Bruzon"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Le Quang Liem"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Levon Aronian"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Liviu-Dieter Nisipeanu"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Mateusz Bartel"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Max Illingworth"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Maxim Matlakov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Maxim Rodshtein"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Maxime Vachier-Lagrave"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Michael Wiedenkeller"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Nguyen Ngoc Truong Son"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ni Hua"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Nikita Vitiugov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Pavel Eljanov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Pentala Harikrishna"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Peter Leko"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Peter Svidler"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Pouya Idani"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Radoslaw Wojtaszek"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Radosław Wojtaszek"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Rafael Leitao"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Rauf Mamedov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ray Robson"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Rinat Jumabayev"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Robert Kempinski"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Romain Edouard"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Rustam Kasimdzhanov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "S. P. Sethuraman"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Saleh Salem"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Samuel Sevian"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Samvel Ter-Sahakyan"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Sanan Sjugirov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Sandro Mareco"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Santosh Gujrathi Vidit"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Sergey Karjakin"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Shakhriyar Mamedyarov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Surya Shekhar Ganguly"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Tamir Nabaty"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Teimour Radjabov"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Tomas Krnan"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Vasif Durarbayli"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Vassily Ivanchuk"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Viorel Iordachescu"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Vladimir Fedoseev"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Vladimir Kramnik"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Vladislav Artemiev"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Wei Yi"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Wen Yang"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Wesley So"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Yu Yangyi"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Yuniesky Quezada"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Yuri Vovk"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Yusup Atabayev"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Zhou Jianchao"@en .
+<http://dbpedia.org/resource/Chess_World_Cup_2015> <http://dbpedia.org/property/rd1Team> "Ziaur Rahman"@en .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(U.S._season_21)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T16:07:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(U.S._season_21)> <http://dbpedia.org/ontology/wikiPageLength> "3202"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(U.S._season_21)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T16:07:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(U.S._season_21)> <http://dbpedia.org/ontology/wikiPageOutDegree> "22"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(U.S._season_21)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677170622"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Dancing_with_the_Stars_(U.S._season_21)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Dancing_with_the_Stars_(U.S._season_21)&oldid=677170622> .
+<http://dbpedia.org/resource/Deaths_in_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:59:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Deaths_in_2015> <http://dbpedia.org/ontology/wikiPageLength> "69117"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Deaths_in_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:59:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Deaths_in_2015> <http://dbpedia.org/ontology/wikiPageOutDegree> "503"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Deaths_in_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222486"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Deaths_in_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Deaths_in_2015&oldid=677222486> .
+<http://dbpedia.org/resource/Doctor_Who_(series_9)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:46:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Doctor_Who_(series_9)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T13:30:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Doctor_Who_(series_9)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677152761"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Doctor_Who_(series_9)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Doctor_Who_(series_9)&oldid=677152761> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/The_Celebrity_Apprentice> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:42:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/wikiPageLength> "116755"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:42:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/wikiPageOutDegree> "372"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/wikiPageRevisionID> "677220394"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Donald_Trump&oldid=677220394> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/caption> "--04-22"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/caption> "Trump in New Hampshire, August 2015"@en .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/caption> "Trump's star on the Hollywood Walk of Fame"@en .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/image> "--04-22"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/image> "Donald Trump star Hollywood Walk of Fame.JPG"@en .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/occupation> "* Chairman and president of The Trump Organization\n* Chairman of Trump Plaza Associates, LLC\n* Chairman of Trump Atlantic City Associates\n* Host of The Apprentice and The Celebrity Apprentice"@en .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/width> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Multiple_image> .
+<http://dbpedia.org/resource/Endorsements_for_the_Democratic_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:28:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Endorsements_for_the_Democratic_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageLength> "119603"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Endorsements_for_the_Democratic_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T18:55:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Endorsements_for_the_Democratic_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageOutDegree> "674"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Endorsements_for_the_Democratic_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageRevisionID> "677195843"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Endorsements_for_the_Democratic_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Endorsements_for_the_Democratic_Party_presidential_primaries,_2016&oldid=677195843> .
+<http://dbpedia.org/resource/Endorsements_for_the_Republican_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:02:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Endorsements_for_the_Republican_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageLength> "189348"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Endorsements_for_the_Republican_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T17:50:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Endorsements_for_the_Republican_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageOutDegree> "1215"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Endorsements_for_the_Republican_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageRevisionID> "677186170"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Endorsements_for_the_Republican_Party_presidential_primaries,_2016> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Endorsements_for_the_Republican_Party_presidential_primaries,_2016&oldid=677186170> .
+<http://dbpedia.org/resource/European_migrant_crisis> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:58:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/European_migrant_crisis> <http://dbpedia.org/ontology/wikiPageLength> "42355"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/European_migrant_crisis> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:02:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/European_migrant_crisis> <http://dbpedia.org/ontology/wikiPageOutDegree> "136"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/European_migrant_crisis> <http://dbpedia.org/ontology/wikiPageRevisionID> "677207261"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/European_migrant_crisis> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=European_migrant_crisis&oldid=677207261> .
+<http://dbpedia.org/resource/European_migrant_crisis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Migrant_crises> .
+<http://dbpedia.org/resource/Fear_the_Walking_Dead> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:27:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Fear_the_Walking_Dead> <http://dbpedia.org/ontology/wikiPageLength> "21739"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Fear_the_Walking_Dead> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:20:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Fear_the_Walking_Dead> <http://dbpedia.org/ontology/wikiPageOutDegree> "83"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Fear_the_Walking_Dead> <http://dbpedia.org/ontology/wikiPageRevisionID> "677217731"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Fear_the_Walking_Dead> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Fear_the_Walking_Dead&oldid=677217731> .
+<http://dbpedia.org/resource/Fear_the_Walking_Dead> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Prequel_television_series> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T10:12:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageLength> "82811"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T09:02:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageOutDegree> "600"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageRevisionID> "677128736"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Frank_Sinatra> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Frank_Sinatra&oldid=677128736> .
+<http://dbpedia.org/resource/Frederick_Achom> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:57:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Frederick_Achom> <http://dbpedia.org/ontology/wikiPageLength> "19278"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Frederick_Achom> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:56:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Frederick_Achom> <http://dbpedia.org/ontology/wikiPageOutDegree> "50"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Frederick_Achom> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222227"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Frederick_Achom> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Frederick_Achom&oldid=677222227> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T16:50:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/ontology/wikiPageLength> "67703"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T16:50:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/ontology/wikiPageOutDegree> "111"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/ontology/wikiPageRevisionID> "677177235"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Hillary_Clinton_email_controversy&oldid=677177235> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Cite_news> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Commons_category> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:HillaryClintonSegmentsUnderInfoBox> .
+<http://dbpedia.org/resource/Hillary_Clinton_email_controversy> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Diplomatic_correspondence> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/Work/runtime> "65.1"^^<http://dbpedia.org/datatype/minute> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/runtime> "3906.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:49:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/wikiPageLength> "11695"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:48:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/wikiPageOutDegree> "55"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677221219"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Honeymoon_(Lana_Del_Rey_album)&oldid=677221219> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/cover> "Honeymoon_.jpg"@en .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/genre> "Indie pop"@en .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "181.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "280.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "281.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "290.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "295.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "323.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "350.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "365.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "3906.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/length> "81.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/title> <http://dbpedia.org/resource/Terrence_Loves_You> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/type> "Studio"@en .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Citation_needed> .
+<http://dbpedia.org/resource/Honeymoon_(Lana_Del_Rey_album)> <http://dbpedia.org/property/writer> "* Del Rey\n* Nowels"@en .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:47:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/ontology/wikiPageLength> "362525"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:36:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/ontology/wikiPageOutDegree> "900"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/ontology/wikiPageRevisionID> "677202995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Islamic_State_of_Iraq_and_the_Levant&oldid=677202995> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/active> "--06-29"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/active> "--10-13"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/area> "320"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/area> <http://dbpedia.org/resource/Template:Iraqi_insurgency_detailed_map> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/area> <http://dbpedia.org/resource/Template:Lebanese_Insurgency_detailed_map> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/area> <http://dbpedia.org/resource/Template:Libyan_Civil_War_detailed_map> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/area> <http://dbpedia.org/resource/Template:Nigerian_insurgency_detailed_map> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/area> <http://dbpedia.org/resource/Template:Yemeni_Civil_War_detailed_map> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/caption> <http://dbpedia.org/resource/Jihadist_black_flag> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/headquarters> <http://dbpedia.org/resource/Ar-Raqqah> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/headquarters> <http://dbpedia.org/resource/Syria> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/strength> "20000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/strength> "200000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/strength> "32600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/strength> "40000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/strength> "52600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_war_faction> .
+<http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Who> .
+<http://dbpedia.org/resource/Jeremy_Corbyn> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:45:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jeremy_Corbyn> <http://dbpedia.org/ontology/wikiPageLength> "79081"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Jeremy_Corbyn> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:45:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jeremy_Corbyn> <http://dbpedia.org/ontology/wikiPageOutDegree> "317"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Jeremy_Corbyn> <http://dbpedia.org/ontology/wikiPageRevisionID> "677220792"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jeremy_Corbyn> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Jeremy_Corbyn&oldid=677220792> .
+<http://dbpedia.org/resource/John_Adams> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T02:02:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Adams> <http://dbpedia.org/ontology/wikiPageLength> "121565"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/John_Adams> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T02:02:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Adams> <http://dbpedia.org/ontology/wikiPageRevisionID> "677090504"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Adams> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=John_Adams&oldid=677090504> .
+<http://dbpedia.org/resource/Jurassic_World> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:08:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jurassic_World> <http://dbpedia.org/ontology/wikiPageLength> "130676"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Jurassic_World> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:23:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jurassic_World> <http://dbpedia.org/ontology/wikiPageRevisionID> "677210758"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jurassic_World> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Jurassic_World&oldid=677210758> .
+<http://dbpedia.org/resource/Legalism_(Chinese_philosophy)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:54:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Legalism_(Chinese_philosophy)> <http://dbpedia.org/ontology/wikiPageLength> "57608"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Legalism_(Chinese_philosophy)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T13:59:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Legalism_(Chinese_philosophy)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677155452"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Legalism_(Chinese_philosophy)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Legalism_(Chinese_philosophy)&oldid=677155452> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://messivsronaldo.net/records.php> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.bubblews.com/posts/messi-broke-record-of-56-years> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.dailymail.co.uk/sport/football/article-2850058/Lionel-Messi-breaks-Raul-s-Champions-League-goalscoring-record-scored-23-different-cities-16-European-nation> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.espnfc.com/blog/the-match/60/post/2414940/barcelona-stay-focus-to-claim-derby-win-at-espanyol> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.espnfc.com/spanish-primera-division/story/2300728/messi-notches-assist-record;-suarez-very-happy-at-barca-says-luis-enrique> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/club/the-honours/detail/card/fc-barcelona-individual-records> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/fourth-mvp-for-leo-messi-at-the-world-cup-finals> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/iniesta-and-messi-receive-2013-iffhs-award> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/leo-messi-picks-up-the-aldo-rovira-award-for-the-third-time> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/leo-messi-s-world-and-european-records-with-fc-barcelona> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/leo-messi-sets-another-spanish-super-cup-record> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/lionel-messi-man-of-the-match-in-2015-uefa-super-cup> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/messi-an-assist-machine-in-el-clasico> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/messi-and-iniesta-win-25th-major-title> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/messi-just-three-behind-pele-in-club-world-cup-intercontinental-goals> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fcbarcelona.com/football/first-team/detail/article/ten-years-with-argentina-for-leo-messi> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.ibtimes.com/sportsnet/lionel-messi-breaks-yet-another-record-1161815> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.mirror.co.uk/sport/football/news/lionel-messis-top-10-stats-4679057> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.soccermetrics.net/terms-and-conditions> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.sportyou.es/blog/futbol/2015/07/05/leo-messi-mvp-copa-america-551915.html> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.telegraph.co.uk/sport/football/babb/11720312/Lionel-Messi-allegedly-refuses-best-player-award-at-Copa-America-as-trophy-removed-from-ceremony.html> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.telegraph.co.uk/sport/football/players/lionel-messi/9786436/Lionel-Messi-wins-record-breaking-fourth-consecutive-Fifa-Ballon-dOr-in-Zurich.html> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.uefa.com/memberassociations/news/newsid=1796750.html> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.worldsoccer.com/esm-golden-shoe/esm-golden-shoe-esm-golden-shoe/esm-golden-shoe-final-standings-335046> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:03:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageLength> "229836"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:12:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageOutDegree> "913"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageRevisionID> "677209188"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Lionel_Messi&oldid=677209188> .
+<http://dbpedia.org/resource/List_of_2015_albums> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T16:05:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_2015_albums> <http://dbpedia.org/ontology/wikiPageLength> "257188"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_2015_albums> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T16:05:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_2015_albums> <http://dbpedia.org/ontology/wikiPageOutDegree> "3142"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_2015_albums> <http://dbpedia.org/ontology/wikiPageRevisionID> "677170333"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_2015_albums> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_2015_albums&oldid=677170333> .
+<http://dbpedia.org/resource/List_of_2015_albums> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:%23R8> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:39:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageLength> "11099"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:18:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageRevisionID> "677199847"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Coronation_Street_characters> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_Coronation_Street_characters&oldid=677199847> .
+<http://dbpedia.org/resource/List_of_PlayStation_4_games> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:53:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_PlayStation_4_games> <http://dbpedia.org/ontology/wikiPageLength> "152347"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_PlayStation_4_games> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:53:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_PlayStation_4_games> <http://dbpedia.org/ontology/wikiPageOutDegree> "941"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_PlayStation_4_games> <http://dbpedia.org/ontology/wikiPageRevisionID> "677221817"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_PlayStation_4_games> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_PlayStation_4_games&oldid=677221817> .
+<http://dbpedia.org/resource/List_of_WWE_personnel> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:54:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_WWE_personnel> <http://dbpedia.org/ontology/wikiPageLength> "79684"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_WWE_personnel> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T13:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_WWE_personnel> <http://dbpedia.org/ontology/wikiPageRevisionID> "677155471"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_WWE_personnel> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_WWE_personnel&oldid=677155471> .
+<http://dbpedia.org/resource/List_of_programs_broadcast_by_GMA_Network> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:51:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_programs_broadcast_by_GMA_Network> <http://dbpedia.org/ontology/wikiPageLength> "18824"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_programs_broadcast_by_GMA_Network> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T13:48:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_programs_broadcast_by_GMA_Network> <http://dbpedia.org/ontology/wikiPageRevisionID> "677154463"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_programs_broadcast_by_GMA_Network> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_programs_broadcast_by_GMA_Network&oldid=677154463> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:06:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:17:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "677209955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_violent_incidents_in_the_Israeli–Palestinian_conflict,_July–December_2015&oldid=677209955> .
+<http://dbpedia.org/resource/Maine_Mendoza> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T06:04:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Maine_Mendoza> <http://dbpedia.org/ontology/wikiPageLength> "9225"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Maine_Mendoza> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T05:58:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Maine_Mendoza> <http://dbpedia.org/ontology/wikiPageOutDegree> "60"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Maine_Mendoza> <http://dbpedia.org/ontology/wikiPageRevisionID> "677114618"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Maine_Mendoza> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Maine_Mendoza&oldid=677114618> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/ontology/numberOfEpisodes> "20"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:57:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/ontology/wikiPageLength> "103538"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:56:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677222231"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=MasterChef_(U.S._season_6)&oldid=677222231> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/episodenumber> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/lastAired> "2015-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/numEpisodes> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/shortsummary> "* Team Challenge 8: The Top 6 chefs will split into two teams of three for the dreaded Masterchef restaurant takeover. The red team captained by Stephen chose Claudia and Nick. The blue team captained by Derrick chose Hetal and Katrina. They must complete two appetizer dishes and two entree dishes for the hungry diners. Therefore the blue team is winning and will be in the Top 5 and the red team will be sent into the Pressure Test.\n* Pressure Test 8: Claudia,Nick and Stephen  will have to face a pressure test in which each cook must present the judges with three different kinds of perfectly prepared, cooked, and plated pasta dishes. The worst dish will end up sending at least one home cook home."@en .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/shortsummary> "* Team Challenge 9: The Top 4 of MasterChef 2015 will battle it out in the MasterChef kitchen. They will split into two teams of two to create a unique appetizer and entree three times using special ingredients that will be revealed to them in time. The winning team will secure themselves a spot in the semifinals, while the losing team will be sent into the dreaded Pressure Test, in which another MasterChef hopeful will be sent away.\n* Pressure Test 9: The members of the losing team from the Team Challenge have to face the Pressure Test. In this test, the two cooks will have to try to create the better cake, and this isn't just any cake: this is Christina Tosi's signature chocolate malted layer cake. The worse cake will eliminate one home cook, leaving them only at fourth place in the competition. The three remaining contestants will be sent to the semifinals, in which they will battle it out to earn themselves a spot in the MasterChef finale."@en .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/title> "Return Of The Champions"@en .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/title> "Think Inside The Box"@en .
+<http://dbpedia.org/resource/MasterChef_(U.S._season_6)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Color> .
+<http://dbpedia.org/resource/Miss_Earth_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T12:04:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miss_Earth_2015> <http://dbpedia.org/ontology/wikiPageLength> "25304"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Miss_Earth_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T12:04:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miss_Earth_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "677144283"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Miss_Earth_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Miss_Earth_2015&oldid=677144283> .
+<http://dbpedia.org/resource/Miss_Earth_2015> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Use_dmy_dates> .
+<http://dbpedia.org/resource/Miss_World_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:53:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miss_World_2015> <http://dbpedia.org/ontology/wikiPageLength> "35070"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Miss_World_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:50:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miss_World_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "677205153"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Miss_World_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Miss_World_2015&oldid=677205153> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/Work/runtime> "48.0"^^<http://dbpedia.org/datatype/minute> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/runtime> "2880.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:59:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/wikiPageLength> "38763"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:03:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/wikiPageOutDegree> "80"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677207520"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Mr._Robot_(TV_series)&oldid=677207520> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/property/runtime> "2880.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Mr._Robot_(TV_series)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:About> .
+<http://dbpedia.org/resource/My_Little_Pony:_Equestria_Girls_%E2%80%93_Friendship_Games> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T01:55:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/My_Little_Pony:_Equestria_Girls_%E2%80%93_Friendship_Games> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T01:54:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/My_Little_Pony:_Equestria_Girls_%E2%80%93_Friendship_Games> <http://dbpedia.org/ontology/wikiPageRevisionID> "677089162"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/My_Little_Pony:_Equestria_Girls_%E2%80%93_Friendship_Games> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=My_Little_Pony:_Equestria_Girls_–_Friendship_Games&oldid=677089162> .
+<http://dbpedia.org/resource/Night_of_Champions_(2015)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T16:39:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Night_of_Champions_(2015)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T16:39:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Night_of_Champions_(2015)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677175348"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Night_of_Champions_(2015)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Night_of_Champions_(2015)&oldid=677175348> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T17:35:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/ontology/wikiPageLength> "82268"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T17:34:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/ontology/wikiPageOutDegree> "581"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/ontology/wikiPageRevisionID> "677183961"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=PAOK_FC&oldid=677183961> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/other> "on loan to Panserraikos"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .
+<http://dbpedia.org/resource/Palazzo_Parisio_(Valletta)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T17:02:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palazzo_Parisio_(Valletta)> <http://dbpedia.org/ontology/wikiPageLength> "20187"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Palazzo_Parisio_(Valletta)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T17:02:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palazzo_Parisio_(Valletta)> <http://dbpedia.org/ontology/wikiPageOutDegree> "47"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Palazzo_Parisio_(Valletta)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677179206"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Palazzo_Parisio_(Valletta)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Palazzo_Parisio_(Valletta)&oldid=677179206> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T15:21:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageLength> "18301"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T15:16:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageOutDegree> "64"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageRevisionID> "677164372"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Pinoy_Big_Brother:_737_–_Part_2&oldid=677164372> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Travis_Scott_(musician)> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:19:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageLength> "7299"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:56:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677215043"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Rodeo_(Travis_Scott_album)&oldid=677215043> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/property/artist> <http://dbpedia.org/resource/Travis_Scott_(musician)> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/property/cover> "Rodeoalbum.jpg"@en .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/property/cover> "{\\rtf1\\ansi\\ansicpg1252{\\fonttbl}\n{\\colortbl;\\red255\\green255\\blue255;"@en .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/property/single> "Antidote"@en .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T05:25:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/ontology/wikiPageLength> "22294"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T03:55:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/ontology/wikiPageOutDegree> "97"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677102766"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Scream_Queens_(2015_TV_series)&oldid=677102766> .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/property/background> "#A91101"@en .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/property/country> "U.S."@en .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Episode_table> .
+<http://dbpedia.org/resource/Scream_Queens_(2015_TV_series)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Official_website> .
+<http://dbpedia.org/resource/Selangor_FA> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T10:26:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Selangor_FA> <http://dbpedia.org/ontology/wikiPageLength> "18983"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Selangor_FA> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T09:57:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Selangor_FA> <http://dbpedia.org/ontology/wikiPageRevisionID> "677133089"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Selangor_FA> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Selangor_FA&oldid=677133089> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://graphics.straitstimes.com/STI/STIMEDIA/Interactives/singapore-general-election/maps/index.html> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:29:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageLength> "37174"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T12:29:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageOutDegree> "214"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "677146818"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Singaporean_general_election,_2015&oldid=677146818> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T17:10:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageLength> "42186"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T17:09:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageOutDegree> "199"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677180207"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Spectre_(2015_film)&oldid=677180207> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/property/country> "United States"@en .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:53:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageLength> "7587"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:51:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageOutDegree> "63"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677205355"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_(series_13)&oldid=677205355> .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:06:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/ontology/wikiPageLength> "25894"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T20:17:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677209946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=SummerSlam_(2015)&oldid=677209946> .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/property/match> "Brock Lesnar vs. The Undertaker"@en .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/property/match> "Luke Harper and Bray Wyatt vs. Dean Ambrose and Roman Reigns"@en .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/property/match> "WWE World Heavyweight Champion Seth Rollins  vs. WWE United States Champion John Cena"@en .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/property/stip> "Singles match for Cena's U.S. Championship and Rollins' WWE World Heavyweight Championship"@en .
+<http://dbpedia.org/resource/SummerSlam_(2015)> <http://dbpedia.org/property/wwenlast> <http://dbpedia.org/resource/NXT_TakeOver:_Brooklyn> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T14:37:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageLength> "11659"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T12:56:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageRevisionID> "677149439"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Documentary_2&oldid=677149439> .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:28:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/ontology/wikiPageLength> "12206"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:24:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/ontology/wikiPageOutDegree> "98"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677218246"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Martian_(film)&oldid=677218246> .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/property/caption> "Theatrical release poster"@en .
+<http://dbpedia.org/resource/The_Martian_(film)> <http://dbpedia.org/property/starring> "* Matt Damon\n* Jessica Chastain\n* Kristen Wiig\n* Jeff Daniels\n* Michael Peña\n* Kate Mara\n* Sean Bean\n* Sebastian Stan\n* Donald Glover\n* Chiwetel Ejiofor"@en .
+<http://dbpedia.org/resource/The_Visit_(2015_film)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T01:05:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Visit_(2015_film)> <http://dbpedia.org/ontology/wikiPageLength> "6875"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Visit_(2015_film)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T01:05:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Visit_(2015_film)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677083086"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_Visit_(2015_film)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Visit_(2015_film)&oldid=677083086> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T00:09:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/ontology/wikiPageLength> "2695"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-20T23:53:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/ontology/wikiPageOutDegree> "35"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677074336"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Voice_(U.S._season_9)&oldid=677074336> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/property/advisors> <http://dbpedia.org/resource/John_Fogerty> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/property/advisors> <http://dbpedia.org/resource/Missy_Elliott> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/property/advisors> <http://dbpedia.org/resource/Rihanna> .
+<http://dbpedia.org/resource/The_Voice_(U.S._season_9)> <http://dbpedia.org/property/advisors> <http://dbpedia.org/resource/Selena_Gomez> .
+<http://dbpedia.org/resource/The_Weeknd> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:51:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Weeknd> <http://dbpedia.org/ontology/wikiPageLength> "34679"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Weeknd> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:51:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Weeknd> <http://dbpedia.org/ontology/wikiPageOutDegree> "163"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Weeknd> <http://dbpedia.org/ontology/wikiPageRevisionID> "677221574"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_Weeknd> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Weeknd&oldid=677221574> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T21:28:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/ontology/wikiPageLength> "22370"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T21:22:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/ontology/wikiPageOutDegree> "157"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/ontology/wikiPageRevisionID> "677218083"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_X_Factor_(UK_series_12)&oldid=677218083> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/property/judges> "* Simon Cowell\n* Cheryl Fernandez-Versini (\n* Nick Grimshaw\n* Rita Ora"@en .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/property/judges> "* Simon Cowell\n* Cheryl Fernandez-Versini\n* Nick Grimshaw\n* Rita Ora\n* Mary Berry"@en .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Dts> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Note> .
+<http://dbpedia.org/resource/The_X_Factor_(UK_series_12)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Ref> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T05:15:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageLength> "202895"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T03:12:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageOutDegree> "577"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageRevisionID> "677099128"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Thomas_Jefferson&oldid=677099128> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/British_America> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Colony_of_Virginia> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Shadwell_(Virginia)> .
+<http://dbpedia.org/resource/Total_Drama_Presents:_The_Ridonculous_Race> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:46:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Total_Drama_Presents:_The_Ridonculous_Race> <http://dbpedia.org/ontology/wikiPageLength> "20835"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Total_Drama_Presents:_The_Ridonculous_Race> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T19:35:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Total_Drama_Presents:_The_Ridonculous_Race> <http://dbpedia.org/ontology/wikiPageRevisionID> "677202805"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Total_Drama_Presents:_The_Ridonculous_Race> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Total_Drama_Presents:_The_Ridonculous_Race&oldid=677202805> .
+<http://dbpedia.org/resource/United_States_presidential_election,_2016> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-21T20:16:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/United_States_presidential_election,_2016> <http://dbpedia.org/ontology/wikiPageLength> "78918"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/United_States_presidential_election,_2016> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-21T18:25:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/United_States_presidential_election,_2016> <http://dbpedia.org/ontology/wikiPageRevisionID> "677191199"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/United_States_presidential_election,_2016> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=United_States_presidential_election,_2016&oldid=677191199> .

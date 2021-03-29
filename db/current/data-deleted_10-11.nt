@@ -1,0 +1,11 @@
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-07-26T20:03:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageLength> "242850"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageModified> "2015-07-26T18:48:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageRevisionID> "673189459"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=India–European_Union_relations&oldid=673189459> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .

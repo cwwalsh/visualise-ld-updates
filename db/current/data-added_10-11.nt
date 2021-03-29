@@ -1,0 +1,18 @@
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-11T04:48:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageLength> "242865"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-11T03:58:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageRevisionID> "675527418"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/India%E2%80%93European_Union_relations> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=India–European_Union_relations&oldid=675527418> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Travis_Scott_(rapper)> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-11T20:38:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageLength> "7320"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-11T19:38:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageOutDegree> "53"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageRevisionID> "675637043"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Rodeo_(Travis_Scott_album)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Rodeo_(Travis_Scott_album)&oldid=675637043> .

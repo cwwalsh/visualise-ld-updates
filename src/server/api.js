@@ -9,24 +9,31 @@ router.get("/hello", (req, res) => {
 });
 
 //TODO implement
-//get information about what versions are stored in database, and any prefixes reccommended
+//get information about what versions are stored in database, and any prefixes used
 router.get("/storeInfo", (req, res) => {});
+
+//get versional materialisation at version
 
 //get changes grouped by property for each version
 router.get("/changes", async (req, res) => {
-  const subject = req.query.subject;
-  const versions = req.query.versions;
+  try {
+    const subject = req.query.subject;
+    const versions = req.query.versions;
 
-  //get changes for version range
-  const changes = await groupTriplesByProperty(subject, versions);
+    //get changes for version range
+    const changes = await groupTriplesByProperty(subject, versions);
 
-  //get full triples for last version
-  const finalVersion = await getSubjectAtVersion(
-    subject,
-    versions.slice(-1)[0]
-  );
+    //get full triples for last version
+    const finalVersion = await getSubjectAtVersion(
+      subject,
+      versions.slice(-1)[0]
+    );
 
-  res.status(200).send({ changes, finalVersion });
+    res.status(200).send({ changes, finalVersion });
+  } catch (e) {
+    console.log(e);
+    res.status(500).send(e);
+  }
 });
 
 module.exports = router;

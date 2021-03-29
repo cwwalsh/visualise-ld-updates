@@ -1,0 +1,15 @@
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-06T09:28:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageLength> "17659"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-06T09:28:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "674815633"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli%E2%80%93Palestinian_conflict,_July%E2%80%93December_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_violent_incidents_in_the_Israeli–Palestinian_conflict,_July–December_2015&oldid=674815633> .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .
+<http://dbpedia.org/resource/Refugees_of_the_Syrian_Civil_War> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-06T02:41:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Refugees_of_the_Syrian_Civil_War> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-06T01:45:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Refugees_of_the_Syrian_Civil_War> <http://dbpedia.org/ontology/wikiPageRevisionID> "674773032"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Refugees_of_the_Syrian_Civil_War> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Refugees_of_the_Syrian_Civil_War&oldid=674773032> .

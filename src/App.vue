@@ -7,7 +7,6 @@
 
       <v-spacer></v-spacer>
 
-      
       <v-progress-circular
         indeterminate
         color="white"
@@ -20,9 +19,10 @@
     </v-app-bar>
 
     <v-main>
-      <v-row>
+      <v-row align-center>
         <v-col cols="4">
           <v-text-field
+            class="mt-1"
             v-model="subject"
             label="Subject Search"
             placeholder="http://dbpedia.org/resource/Donald_Trump"
@@ -32,6 +32,7 @@
         </v-col>
         <v-col cols="6">
           <v-range-slider
+            class="mt-1"
             v-model="selectedVersions"
             label="Versions"
             ticks="always"
@@ -64,6 +65,7 @@
         </v-col>
         <v-col cols="1">
           <v-btn
+            class="mt-1"
             id="search-button"
             @click="getChanges(subject, populateVersions(selectedVersions))"
           >
@@ -71,9 +73,9 @@
           </v-btn>
         </v-col>
       </v-row>
-      <v-row>
-        <v-col>
-          <Graph
+      <v-row class="flex-nowrap">
+        <v-col cols="6">
+          <prop-graph
             v-bind:changes="changes"
             v-bind:subject="subject"
             v-bind:graph="finalVersion"
@@ -81,8 +83,8 @@
             v-on:loading="showLoadingStatus"
           />
         </v-col>
-        <v-col overflow="scroll">
-          <PropertiesTable
+        <v-col overflow="scroll" cols="6">
+          <properties-table
             v-bind:changes="changes"
             v-bind:search="searchParameter"
           />
@@ -93,8 +95,8 @@
 </template>
 
 <script>
-import Graph from "./components/Graph";
-import PropertiesTable from "./components/PropertiesTable";
+import PropertiesTable from "./components/PropertiesTable.vue";
+import PropGraph from "./components/PropGraph.vue";
 
 export default {
   name: "Main",
@@ -136,6 +138,9 @@ export default {
         .then(response => {
           this.changes = response.data.changes;
           this.finalVersion = response.data.finalVersion;
+        })
+        .catch(err => {
+          console.log(err);
         });
     },
     populateVersions: function([start, end]) {
@@ -153,8 +158,14 @@ export default {
     }
   },
   components: {
-    Graph,
-    PropertiesTable
+    PropertiesTable,
+    PropGraph
   }
 };
 </script>
+
+<style>
+html {
+  overflow: hidden;
+}
+</style>

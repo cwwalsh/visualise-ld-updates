@@ -1,0 +1,21 @@
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-07T00:09:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageID> "47451099"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageLength> "954"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-07T00:09:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageOutDegree> "10"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageRevisionID> "674915352"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Revival_(Selena_Gomez_album)&oldid=674915352> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/property/cover> "nocover.svg"@en .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/property/type> "Studio"@en .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-07T13:38:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageLength> "3721"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-07T13:37:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageOutDegree> "42"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageRevisionID> "674990397"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Strictly_Come_Dancing_(series_13)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_(series_13)&oldid=674990397> .

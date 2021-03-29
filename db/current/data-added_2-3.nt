@@ -1,0 +1,90 @@
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T00:22:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-01T23:34:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageRevisionID> "674144309"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015%E2%80%9316_La_Liga> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015–16_La_Liga&oldid=674144309> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=2015_US_Open_–_Men's_Singles&action=edit> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T02:34:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=2015_US_Open_–_Men's_Singles&action=history> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageID> "47406217"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageLength> "35"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-02T02:33:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageOutDegree> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/2015_US_Open_(tennis)> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageRevisionID> "674162227"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=2015_US_Open_–_Men's_Singles&oldid=674162227> .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://www.w3.org/2000/01/rdf-schema#label> "2015 US Open – Men's Singles"@en .
+<http://dbpedia.org/resource/2015_US_Open_%E2%80%93_Men's_Singles> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/2015_US_Open_–_Men's_Singles> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T14:08:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-02T13:10:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageRevisionID> "674219337"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=American_Horror_Story:_Hotel&oldid=674219337> .
+<http://dbpedia.org/resource/American_Horror_Story:_Hotel> <http://dbpedia.org/property/bgcolour> "#555555"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Pinoy_Big_Brother:_737_–_Part_2&action=edit> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://entertainment.abs-cbn.com/tv/shows/pbb737/main> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://twitter.com/PBBabscbn> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.facebook.com/OfficialPinoyBigBrotherAbsCbn/> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T16:15:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Pinoy_Big_Brother:_737_–_Part_2&action=history> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageID> "47411820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageLength> "4507"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-02T16:15:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageOutDegree> "17"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageRevisionID> "674240234"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Pinoy_Big_Brother:_737_–_Part_2&oldid=674240234> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/imagebg> "#000"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/legendevic> "Evicted"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/legendnom> "Nominated"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/previous> "Pinoy Big Brother: 737"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/series> "737"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/seriesname> <http://dbpedia.org/resource/Pinoy_Big_Brother> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/title> "(Part 1, 2)"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/title> "Pinoy Big Brother: 737"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Big_Brother_housemates> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Italic_title> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Main> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Nowrap> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Pinoy_Big_Brother> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Reflist> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:S-bef> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:S-end> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:S-start> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:S-ttl> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://dbpedia.org/property/years> "--06-20"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:ABS-CBN_shows> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pinoy_Big_Brother> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://www.w3.org/2000/01/rdf-schema#label> "Pinoy Big Brother: 737 – Part 2"@en .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://xmlns.com/foaf/0.1/homepage> <http://entertainment.abs-cbn.com/tv/shows/pbb737/main> .
+<http://dbpedia.org/resource/Pinoy_Big_Brother:_737_%E2%80%93_Part_2> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Pinoy_Big_Brother:_737_–_Part_2> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T05:02:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageLength> "18029"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-02T03:33:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageOutDegree> "131"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageRevisionID> "674167327"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Singaporean_general_election,_2015> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Singaporean_general_election,_2015&oldid=674167327> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/budget> "1.25E8"^^<http://dbpedia.org/datatype/poundSterling> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T10:47:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageLength> "41194"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-02T10:47:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageRevisionID> "674207080"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Spectre_(2015_film)&oldid=674207080> .
+<http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/property/budget> "<£125 million"@en .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/Chalice_Recording_Studios> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T00:37:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageLength> "12361"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-02T00:24:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageRevisionID> "674149032"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Documentary_2&oldid=674149032> .
+<http://dbpedia.org/resource/The_Documentary_2> <http://dbpedia.org/property/recorded> "* Chalice Recording Studios"@en .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-02T09:24:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageLength> "202794"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-02T07:27:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageRevisionID> "674188490"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Thomas_Jefferson&oldid=674188490> .
+<http://dbpedia.org/resource/Thomas_Jefferson> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Writers_of_American_Southern_literature> .

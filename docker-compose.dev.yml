@@ -1,0 +1,18 @@
+version: '3.0'
+
+services: 
+  app:
+    build: 
+      context: .
+    network_mode: "host"
+
+  fuseki:
+    build:
+      context: ./db/jena-fuseki-docker-3.17.0/
+      args: 
+        JENA_VERSION: 3.17.0
+    volumes:
+      - ./db/jena-fuseki-docker-3.17.0/logs:/fuseki/logs
+      - ./db/jena-fuseki-docker-3.17.0/databases:/fuseki/databases
+    command: [ "--tdb2", "--update", "--loc", "/fuseki/databases/data2", "/data"]
+    network_mode: "host"

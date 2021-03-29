@@ -4,6 +4,9 @@
     :headers="headers"
     :search="search"
     :items="tableChanges"
+    height="65vh"
+    fixed-header
+    :item-class="rowBackgroundColor"
   >
     <template v-slot:top>
       <v-text-field v-model="search" label="Search" class="mx-4"></v-text-field>
@@ -44,9 +47,25 @@ export default {
           });
         }
       }
-
       return formattedChanges;
+    },
+    searchQuery: function() {
+      return this.search;
+    }
+  },
+  methods: {
+    rowBackgroundColor: function(row) {
+      return row.status == "added" ? "prop-added" : "prop-deleted";
     }
   }
 };
 </script>
+
+<style>
+.prop-added {
+  background-color: #b3ffcc;
+}
+.prop-deleted {
+  background-color: #ff8080;
+}
+</style>

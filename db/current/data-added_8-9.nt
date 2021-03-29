@@ -1,0 +1,21 @@
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Δικέφαλος του Βορρά"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι  Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://dbpedia.org/property/nickname> "Ασπρόμαυροι"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Δικέφαλος του Βορρά (Two Headed Eagle of the North)"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks) Τουρκος"@en .
+<http://dbpedia.org/resource/PAOK_FC> <http://xmlns.com/foaf/0.1/nick> "Ασπρόμαυροι (White-Blacks)"@en .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-07T22:43:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2015-08-08T13:01:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageID> "47458803"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageID> "47470968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageLength> "62"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageLength> "95"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-07T22:18:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageModified> "2015-08-08T12:34:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Draft:Revival_(Selena_Gomez_album)_(2nd_edition)> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageRevisionID> "675049044"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageRevisionID> "675130971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Revival_(Selena_Gomez_album)&oldid=675049044> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Revival_(Selena_Gomez_album)&oldid=675130971> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Db-rediruser> .
+<http://dbpedia.org/resource/Revival_(Selena_Gomez_album)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:R_from_move> .
