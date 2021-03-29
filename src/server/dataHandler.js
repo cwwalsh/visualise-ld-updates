@@ -19,7 +19,7 @@ async function groupTriplesByProperty(subject, versionNumbers) {
           propertyGroups[triple.p] = {
             relevantVersions: [versionNumber],
             values: [
-              { version: versionNumber, object: triple.o, status: "added" }
+              { version: versionNumber, object: triple.o, status: "Added" }
             ]
           };
         } else {
@@ -28,11 +28,10 @@ async function groupTriplesByProperty(subject, versionNumbers) {
           ) {
             propertyGroups[triple.p].relevantVersions.push(versionNumber);
           }
-          propertyGroups[triple.p].count++;
           propertyGroups[triple.p].values.push({
             version: versionNumber,
             object: triple.o,
-            status: "added"
+            status: "Added"
           });
         }
       }
@@ -42,7 +41,7 @@ async function groupTriplesByProperty(subject, versionNumbers) {
           propertyGroups[triple.p] = {
             relevantVersions: [versionNumber],
             values: [
-              { version: versionNumber, object: triple.o, status: "deleted" }
+              { version: versionNumber, object: triple.o, status: "Deleted" }
             ]
           };
         } else {
@@ -51,10 +50,27 @@ async function groupTriplesByProperty(subject, versionNumbers) {
           ) {
             propertyGroups[triple.p].relevantVersions.push(versionNumber);
           }
+          
+          //check if any rather than deleted
+          const addedValue = propertyGroups[triple.p].values.findIndex(
+            value => {
+              return (
+                value.status === "Added" && value.version === versionNumber
+              );
+            }
+          );
+
+          let newStatus;
+          if (addedValue === -1) {
+            newStatus = "Deleted";
+          } else {
+            propertyGroups[triple.p].values.splice(addedValue, 1);
+            newStatus = "Modified";
+          }
           propertyGroups[triple.p].values.push({
             version: versionNumber,
             object: triple.o,
-            status: "deleted"
+            status: newStatus
           });
         }
       }

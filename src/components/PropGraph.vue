@@ -3,7 +3,7 @@
     <v-row align="start">
       <v-switch label="Labels" class="mt-0"></v-switch>
       <v-spacer></v-spacer>
-      <v-btn>Back</v-btn>
+      <v-btn>Reset</v-btn>
     </v-row>
     <v-row>
       <div

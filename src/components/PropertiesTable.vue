@@ -55,7 +55,9 @@ export default {
   },
   methods: {
     rowBackgroundColor: function(row) {
-      return row.status == "added" ? "prop-added" : "prop-deleted";
+      if (row.status === "Added") return "prop-added";
+      else if (row.status === "Deleted") return "prop-deleted";
+      else return "prop-modified";
     }
   }
 };
@@ -67,5 +69,8 @@ export default {
 }
 .prop-deleted {
   background-color: #ff8080;
+}
+.prop-modified {
+  background-color: #78faf4;
 }
 </style>

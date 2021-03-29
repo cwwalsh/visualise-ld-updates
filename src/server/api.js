@@ -10,7 +10,7 @@ router.get("/hello", (req, res) => {
 
 //TODO implement
 //get information about what versions are stored in database, and any prefixes used
-router.get("/storeInfo", (req, res) => {});
+// router.get("/storeInfo", (req, res) => {});
 
 //get versional materialisation at version
 
