@@ -1,12 +1,10 @@
 const express = require("express");
 const router = express.Router();
 
-const { groupTriplesByProperty } = require("./dataHandler");
-const { getSubjectAtVersion } = require("./TDBInterface");
-
-router.get("/hello", (req, res) => {
-  res.status(200).send("hello world");
-});
+const {
+  groupTriplesByProperty,
+  filterUniqueProperties
+} = require("./dataHandler");
 
 //TODO implement
 //get information about what versions are stored in database, and any prefixes used
@@ -24,7 +22,7 @@ router.get("/changes", async (req, res) => {
     const changes = await groupTriplesByProperty(subject, versions);
 
     //get full triples for last version
-    const finalVersion = await getSubjectAtVersion(
+    const finalVersion = await filterUniqueProperties(
       subject,
       versions.slice(-1)[0]
     );

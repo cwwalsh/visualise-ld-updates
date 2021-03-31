@@ -1,4 +1,4 @@
-const { getChangesForSubject } = require("./TDBInterface");
+const { getChangesForSubject, getSubjectAtVersion } = require("./TDBInterface");
 
 /**
  * Group triples by version and generate relative "heatmap" for rendering frontend
@@ -50,7 +50,7 @@ async function groupTriplesByProperty(subject, versionNumbers) {
           ) {
             propertyGroups[triple.p].relevantVersions.push(versionNumber);
           }
-          
+
           //check if any rather than deleted
           const addedValue = propertyGroups[triple.p].values.findIndex(
             value => {
@@ -82,4 +82,17 @@ async function groupTriplesByProperty(subject, versionNumbers) {
   }
 }
 
-module.exports = { groupTriplesByProperty };
+/**
+ * get full graph at version and return only unique occurences of a property
+ */
+async function filterUniqueProperties(subject, version) {
+  const graph = await getSubjectAtVersion(subject, version);
+
+  return Array.from(new Set(graph.map(e => e.p.value))).map(prop => {
+    return {
+      prop: prop
+    }
+  });
+}
+
+module.exports = { groupTriplesByProperty, filterUniqueProperties };

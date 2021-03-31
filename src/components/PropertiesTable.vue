@@ -55,9 +55,19 @@ export default {
   },
   methods: {
     rowBackgroundColor: function(row) {
-      if (row.status === "Added") return "prop-added";
-      else if (row.status === "Deleted") return "prop-deleted";
-      else return "prop-modified";
+      let style = "";
+      switch (row.status) {
+        case "Added":
+          style = "prop-added";
+          break;
+        case "Deleted":
+          style = "prop-deleted";
+          break;
+        case "Modified":
+          style = "prop-modified";
+          break;
+      }
+      return style;
     }
   }
 };

@@ -1,9 +1,7 @@
 <template>
   <v-container>
     <v-row align="start">
-      <v-switch label="Labels" class="mt-0"></v-switch>
-      <v-spacer></v-spacer>
-      <v-btn>Reset</v-btn>
+      <v-btn @click="redrawGraph()" class="mb-1">Reset</v-btn>
     </v-row>
     <v-row>
       <div
@@ -21,45 +19,16 @@ import ForceGraph from "force-graph";
 export default {
   name: "PropGraph",
   props: ["subject", "changes", "graph"],
-  data: () => {
+  data() {
     return {
-      RDFGraph: ForceGraph()
+      RDFGraph: ForceGraph(),
+      graphNodes: []
     };
   },
   watch: {
     graph: function() {
-      this.$emit("loading", true);
-      const graphNodes = this.formatTriplesForGraph();
-
-      //5150000 to 16777215 represent numbers on this scale and convert
-      //for each link, find corresponding value in changes and change colour corresponding to this
-
-      this.RDFGraph(this.$refs["graph-area"])
-        .width(window.innerWidth / 2)
-        .height(window.innerHeight * 0.8)
-        .graphData(graphNodes)
-        .enableNodeDrag(false)
-        .cooldownTime(500)
-        .nodeId("id")
-        .nodeVal("val")
-        .nodeLabel("name")
-        .linkSource("source")
-        .linkTarget("target")
-        .linkLabel("label")
-        .nodeColor("color")
-        .backgroundColor("#2b2d2f")
-        // .linkColor("color")
-        // eslint-disable-next-line no-unused-vars
-        .onNodeClick((node, _) => {
-          this.$emit("selectedProp", node.name.match(/.+?(?= =>)/)[0]);
-        });
-
-      this.RDFGraph.d3Force("center", null);
-
-      this.RDFGraph.onEngineStop(() => {
-        this.RDFGraph.zoomToFit(300);
-        this.$emit("loading", false);
-      });
+      this.graphNodes = this.formatTriplesForGraph();
+      this.drawGraph();
     }
   },
   methods: {
@@ -71,7 +40,8 @@ export default {
           {
             id: "subject",
             name: this.subject,
-            val: 10
+            val: 10,
+            color: "#1976D2"
           }
         ],
         links: []
@@ -80,23 +50,73 @@ export default {
       //for each triple in graph, create a node and link and link it back to the subject node
       for (const t in this.graph) {
         const triple = this.graph[t];
+
+        //check through changes and add sub properties to graph object with version and object
+        const changesForTriple = this.changes[triple.prop];
+        if (changesForTriple) {
+          if (changesForTriple.relevantVersions.length > 0) {
+            triple.childNodes = [];
+            triple.childLinks = [];
+
+            for (const v in changesForTriple.values) {
+              const currentVal = changesForTriple.values[v];
+              const childId = `${t}-${v}`;
+              const objectName = currentVal.object.value.split("/").slice(-1);
+              let color = "";
+              switch (currentVal.status) {
+                case "Added":
+                  color = "#b3ffcc";
+                  break;
+                case "Deleted":
+                  color = "#ff8080";
+                  break;
+                case "Modified":
+                  color = "#78faf4";
+                  break;
+                default:
+                  color = "#1976d2";
+                  break;
+              }
+              triple.childNodes.push({
+                id: childId,
+                name: `V${currentVal.version} - ${objectName[0]}`,
+                val: 0.2,
+                color: color
+              });
+              triple.childLinks.push({
+                source: t,
+                target: childId,
+                color: "white"
+              });
+            }
+          }
+        }
+
+        //get just name of property cutting off the prefix
+        const propertyName = triple.prop.split("/").slice(-1);
         formattedGraph.nodes.push({
           id: t,
-          name: `${triple.p.value} => ${triple.o.value}`,
+          name: propertyName,
           val: 0.2,
-          color: triple.color
+          color: triple.color,
+          collapsed: true,
+          childNodes: triple.childNodes,
+          childLinks: triple.childLinks,
+          fullProperty: triple.prop
         });
+
         formattedGraph.links.push({
           source: "subject",
-          target: t,
-          label: triple.p.value
-          // color: triple.color
+          target: t
         });
       }
 
       return formattedGraph;
     },
     versionCountsToColorValue: function() {
+      //5150000 to 16777215 represent numbers on this scale and convert
+      //for each link, find corresponding value in changes and change colour corresponding to this
+
       //get highest number of changes for a property
       const versionCounts = [];
       let highestCount = 0;
@@ -124,7 +144,7 @@ export default {
 
         //apply colour value to each property in this.graph
         for (const t in this.graph) {
-          if (this.graph[t].p.value == ver.prop) {
+          if (this.graph[t].prop == ver.prop) {
             this.graph[t].color = ver.code;
           }
         }
@@ -173,6 +193,90 @@ export default {
           })
           .join("")
       );
+    },
+    redrawGraph: async function() {
+      this.graphNodes = this.formatTriplesForGraph();
+      this.drawGraph();
+    },
+    drawGraph: function() {
+      this.$emit("loading", true);
+
+      this.RDFGraph(this.$refs["graph-area"])
+        .width(window.innerWidth / 2)
+        .height(window.innerHeight * 0.74)
+        .graphData(this.graphNodes)
+        .enableNodeDrag(false)
+        .cooldownTime(500)
+        .nodeId("id")
+        .nodeColor("color")
+        .nodeLabel("name")
+        .nodeCanvasObject((node, ctx, globalScale) => {
+          const label = node.name;
+          const fontSize = 12 / globalScale;
+          ctx.font = `${fontSize}px Sans-Serif`;
+          const textWidth = ctx.measureText(label).width;
+          const bckgDimensions = [textWidth, fontSize].map(
+            n => n + fontSize * 0.2
+          );
+
+          ctx.fillStyle = "rgba(43, 45, 47, 1)";
+          ctx.fillRect(
+            node.x - bckgDimensions[0] / 2,
+            node.y - bckgDimensions[1] / 2,
+            ...bckgDimensions
+          );
+
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          ctx.fillStyle = node.color;
+          ctx.fillText(label, node.x, node.y);
+
+          node.__bckgDimensions = bckgDimensions;
+        })
+        .nodePointerAreaPaint((node, color, ctx) => {
+          ctx.fillStyle = color;
+          const bckgDimensions = node.__bckgDimensions;
+          bckgDimensions &&
+            ctx.fillRect(
+              node.x - bckgDimensions[0] / 2,
+              node.y - bckgDimensions[1] / 2,
+              ...bckgDimensions
+            );
+        })
+        .nodeVal("val")
+        .linkSource("source")
+        .linkTarget("target")
+        .linkLabel("label")
+        .backgroundColor("#2b2d2f")
+        // .linkVisibility(false)
+        // eslint-disable-next-line no-unused-vars
+        .onNodeClick((node, _) => {
+          this.$emit("selectedProp", node.fullProperty);
+          node.collapsed = !node.collapsed;
+          this.getVisibleNodes(node);
+          this.RDFGraph.graphData(this.graphNodes);
+          setTimeout(() => {
+            this.RDFGraph.centerAt(node.x, node.y, 3000);
+            this.RDFGraph.zoom(4, 1000);
+          }, 1000);
+        });
+
+      this.RDFGraph.d3Force("center", null);
+
+      setTimeout(() => {
+        this.RDFGraph.zoomToFit(300);
+      }, 2000);
+
+      this.$emit("loading", false);
+    },
+    getVisibleNodes: function(node) {
+      if (!node.collapsed) {
+        //add child nodes to visualisation
+        this.graphNodes.nodes = this.graphNodes.nodes.concat(node.childNodes);
+        this.graphNodes.links = this.graphNodes.links.concat(node.childLinks);
+      } else {
+        //remove child nodes from visualisation
+      }
     }
   }
 };
