@@ -18,7 +18,8 @@ services:
       [
         "--tdb2",
         "--loc",
-        "/fuseki/databases/data2",
+        "/fuseki/databases/data",
+        "--update",
         "--port",
         "${VUE_APP_TRIPLESTORE_PORT}",
         "/data",
