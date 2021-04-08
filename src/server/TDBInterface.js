@@ -24,7 +24,9 @@ async function getChangesForSubject(subject, versions) {
     }
     const query = `select ?p ?o ?g ${fromConstruction} where { graph ?g { <${subject}> ?p ?o . } }`;
     const request = await Axios.get(
-      `http://localhost:3030/data/sparql?query=${encodeURI(query)}`
+      `${process.env.VUE_APP_TRIPLESTORE_URL}/data/sparql?query=${encodeURI(
+        query
+      )}`
     );
     for (const triple of request.data.results.bindings) {
       const version = triple.g.value.match(/\d+$/);
@@ -63,7 +65,9 @@ async function getChangesForSubject(subject, versions) {
 async function getSubjectAtVersion(subject, version) {
   const query = `select ?p ?o from <http://example.org/${version}> where {<${subject}> ?p ?o .}`;
   const request = await axios.get(
-    `http://localhost:3030/data/sparql?query=${encodeURI(query)}`
+    `${process.env.VUE_APP_TRIPLESTORE_URL}/data/sparql?query=${encodeURI(
+      query
+    )}`
   );
   const triples = request.data.results.bindings;
 

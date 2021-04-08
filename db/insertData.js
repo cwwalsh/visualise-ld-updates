@@ -3,6 +3,7 @@ const { promisify } = require("util");
 const axios = require("axios");
 
 const DIR = "./current";
+const STORE_URL = "http://localhost:3030";
 
 async function loadFiles(path) {
   const readdir = promisify(fs.readdir);
@@ -36,7 +37,7 @@ async function loadFiles(path) {
       }
       const fileContents = await readFile(`${DIR}/${file}`, "utf-8");
       await axios.post(
-        `http://localhost:3030/data?graph=http://example.org/${graphName}`,
+        `${STORE_URL}/data?graph=http://example.org/${graphName}`,
         fileContents,
         { headers: headers }
       );
@@ -52,7 +53,7 @@ async function loadFiles(path) {
     }
 
     await axios.post(
-      `http://localhost:3030/data?graph=http://example.org/versions`,
+      `${STORE_URL}/data?graph=http://example.org/versions`,
       versionListGraph,
       { headers: headers }
     );

@@ -1,15 +1,14 @@
 FROM node:15
 
-ENV NODE_ENV=production
-
 WORKDIR /app
-
-COPY ["package.json", "package-lock.json*", "./"]
-
-RUN npm install --production
 
 COPY . .
 
+RUN npm install
 
-EXPOSE 8080
+ENV NODE_ENV=production
+RUN npm run build
+
+
+# EXPOSE 8080
 CMD ["node", "./src/server/index.js"]

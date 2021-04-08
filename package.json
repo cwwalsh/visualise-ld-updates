@@ -3,12 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build --modern",
     "test:unit": "vue-cli-service test:unit",
     "test:e2e": "vue-cli-service test:e2e",
     "lint": "vue-cli-service lint",
-    "start": "nodemon --exec 'vue-cli-service serve'",
+    "start": "nodemon --exec 'vue-cli-service serve' --port $(grep VUE_APP_APPLICATION_PORT .env | cut -d '=' -f2)",
     "prod": "node ./src/server/index.js"
   },
   "dependencies": {
@@ -18,6 +17,7 @@
     "connect-history-api-fallback": "^1.6.0",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "force-graph": "^1.36.2",
     "vue": "^2.6.11",

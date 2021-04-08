@@ -1,18 +1,26 @@
-version: '3.0'
+version: "3.0"
 
-services: 
+services:
   app:
-    build: 
+    build:
       context: .
     network_mode: "host"
 
   fuseki:
     build:
       context: ./db/jena-fuseki-docker-3.17.0/
-      args: 
+      args:
         JENA_VERSION: 3.17.0
     volumes:
       - ./db/jena-fuseki-docker-3.17.0/logs:/fuseki/logs
       - ./db/jena-fuseki-docker-3.17.0/databases:/fuseki/databases
-    command: [ "--tdb2", "--update", "--loc", "/fuseki/databases/data2", "/data"]
+    command:
+      [
+        "--tdb2",
+        "--loc",
+        "/fuseki/databases/data2",
+        "--port",
+        "${VUE_APP_TRIPLESTORE_PORT}",
+        "/data",
+      ]
     network_mode: "host"

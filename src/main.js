@@ -8,7 +8,7 @@ Vue.config.productionTip = false;
 Vue.use({
   install(Vue) {
     Vue.prototype.$api = axios.create({
-      baseURL: "http://localhost:8080/api/"
+      baseURL: `${process.env.VUE_APP_APPLICATION_URL}/api/`
     });
   }
 });

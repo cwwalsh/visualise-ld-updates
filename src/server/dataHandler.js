@@ -91,7 +91,7 @@ async function filterUniqueProperties(subject, version) {
   return Array.from(new Set(graph.map(e => e.p.value))).map(prop => {
     return {
       prop: prop
-    }
+    };
   });
 }
 

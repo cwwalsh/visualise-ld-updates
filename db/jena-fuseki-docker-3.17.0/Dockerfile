@@ -62,11 +62,11 @@ RUN ./download.sh --chksum sha1 "$JAR_URL"
 
 ARG JDEPS_EXTRA="jdk.crypto.cryptoki,jdk.crypto.ec"
 RUN \
-  JDEPS="$(jdeps --multi-release base --print-module-deps --ignore-missing-deps ${FUSEKI_JAR})"  && \
-  jlink \
-        --compress 2 --strip-debug --no-header-files --no-man-pages \
-        --output "${JAVA_MINIMAL}" \
-        --add-modules "${JDEPS},${JDEPS_EXTRA}"
+    JDEPS="$(jdeps --multi-release base --print-module-deps --ignore-missing-deps ${FUSEKI_JAR})"  && \
+    jlink \
+    --compress 2 --strip-debug --no-header-files --no-man-pages \
+    --output "${JAVA_MINIMAL}" \
+    --add-modules "${JDEPS},${JDEPS_EXTRA}"
 
 ADD entrypoint.sh .
 ADD log4j2.properties .
@@ -111,7 +111,7 @@ ENV \
 
 USER fuseki
 
-EXPOSE 3030
+# EXPOSE 3030
 
 ENTRYPOINT ["./entrypoint.sh" ]
 CMD []
