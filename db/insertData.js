@@ -2,7 +2,7 @@ const fs = require("fs");
 const { promisify } = require("util");
 const axios = require("axios");
 
-require("dotenv").config({path: "../.env"});
+require("dotenv").config({ path: "../.env" });
 
 const DIR = "./current";
 const STORE_URL = process.env.VUE_APP_TRIPLESTORE_URL;
