@@ -1,0 +1,26 @@
+version: "3.0"
+
+services:
+  app:
+    image: docker.pkg.github.com/cwwalsh/visualise-ld-updates/app_prod:1.0
+    network_mode: "host"
+
+  fuseki:
+    build:
+      context: ./db/jena-fuseki-docker-3.17.0/
+      args:
+        JENA_VERSION: 3.17.0
+    volumes:
+      - ./db/jena-fuseki-docker-3.17.0/logs:/fuseki/logs
+      - ./db/jena-fuseki-docker-3.17.0/databases:/fuseki/databases
+    command:
+      [
+        "--tdb2",
+        "--loc",
+        "/fuseki/databases/data",
+        "--update",
+        "--port",
+        "${VUE_APP_TRIPLESTORE_PORT}",
+        "/data",
+      ]
+    network_mode: "host"

@@ -81,7 +81,8 @@ export default {
                 id: childId,
                 name: `V${currentVal.version} - ${objectName[0]}`,
                 val: 0.2,
-                color: color
+                color: color,
+                isChild: true
               });
               triple.childLinks.push({
                 source: t,
@@ -98,7 +99,7 @@ export default {
           id: t,
           name: propertyName,
           val: 0.2,
-          color: triple.color,
+          color: triple.color ? triple.color : "#1976D2",
           collapsed: true,
           childNodes: triple.childNodes,
           childLinks: triple.childLinks,
@@ -251,14 +252,12 @@ export default {
         // .linkVisibility(false)
         // eslint-disable-next-line no-unused-vars
         .onNodeClick((node, _) => {
-          this.$emit("selectedProp", node.fullProperty);
+          console.log(node);
           node.collapsed = !node.collapsed;
+          if (!node.isChild) {
+            this.$emit("selectedProp", node.fullProperty);
+          }
           this.getVisibleNodes(node);
-          this.RDFGraph.graphData(this.graphNodes);
-          setTimeout(() => {
-            this.RDFGraph.centerAt(node.x, node.y, 3000);
-            this.RDFGraph.zoom(4, 1000);
-          }, 1000);
         });
 
       this.RDFGraph.d3Force("center", null);
@@ -270,12 +269,33 @@ export default {
       this.$emit("loading", false);
     },
     getVisibleNodes: function(node) {
-      if (!node.collapsed) {
-        //add child nodes to visualisation
-        this.graphNodes.nodes = this.graphNodes.nodes.concat(node.childNodes);
-        this.graphNodes.links = this.graphNodes.links.concat(node.childLinks);
-      } else {
-        //remove child nodes from visualisation
+      if (node.childNodes) {
+        if (!node.collapsed && node.childNodes) {
+          //add child nodes to visualisation
+          this.graphNodes.nodes = this.graphNodes.nodes.concat(node.childNodes);
+          this.graphNodes.links = this.graphNodes.links.concat(node.childLinks);
+
+          //zoom to selected node
+          this.RDFGraph.graphData(this.graphNodes);
+          setTimeout(() => {
+            this.RDFGraph.centerAt(node.x, node.y, 3000);
+            this.RDFGraph.zoom(4, 1000);
+          }, 1000);
+        } else {
+          //remove child nodes from visualisation
+          this.graphNodes.nodes = this.graphNodes.nodes.filter(
+            n => !node.childNodes.includes(n)
+          );
+          this.graphNodes.links = this.graphNodes.links.filter(
+            l => !node.childLinks.includes(l)
+          );
+
+          //zoom to centre
+          this.RDFGraph.graphData(this.graphNodes);
+          setTimeout(() => {
+            this.RDFGraph.zoomToFit(300);
+          }, 1000);
+        }
       }
     }
   }
